@@ -1,0 +1,252 @@
+fileFormatVersion: 2
+guid: 9514cbc963bd69e4aaad18deb3be6a5b
+timeCreated: 1463094335
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Moblie Jimbobway Atlas Final_0
+    21300002: Moblie Jimbobway Atlas Final_1
+    21300004: Moblie Jimbobway Atlas Final_2
+    21300006: EGlob_0
+    21300008: EGlob_1
+    21300010: EGlob_2
+    21300012: EGlob_3
+    21300014: EGlob_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Moblie Jimbobway Atlas Final_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 547
+        width: 506
+        height: 421
+      alignment: 9
+      pivot: {x: 0.6814252, y: 0.49339226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.801147, y: -184.71814}
+        - {x: -5.8011475, y: -169.71814}
+        - {x: 15.198853, y: -116.71814}
+        - {x: 28.198853, y: -99.71814}
+        - {x: 64.19885, y: -77.71814}
+        - {x: 73.19885, y: -50.71814}
+        - {x: 109.19885, y: -41.71814}
+        - {x: 131.19885, y: -20.71814}
+        - {x: 145.19885, y: 11.28186}
+        - {x: 145.19885, y: 49.28186}
+        - {x: 98.19885, y: 97.28186}
+        - {x: 55.198853, y: 132.28186}
+        - {x: 32.198853, y: 137.28186}
+        - {x: -18.801147, y: 170.28186}
+        - {x: -82.80115, y: 194.28186}
+        - {x: -111.80115, y: 194.28186}
+        - {x: -141.80115, y: 166.28186}
+        - {x: -149.80115, y: 137.28186}
+        - {x: -146.80115, y: 111.28186}
+        - {x: -180.80115, y: 103.28186}
+        - {x: -193.80115, y: 85.28186}
+        - {x: -224.80115, y: 35.28186}
+        - {x: -239.80115, y: -15.71814}
+        - {x: -298.80115, y: -9.71814}
+        - {x: -305.80115, y: -10.71814}
+        - {x: -338.80115, y: -27.71814}
+        - {x: -338.80115, y: -55.71814}
+        - {x: -334.80115, y: -68.71814}
+        - {x: -304.80115, y: -67.71814}
+        - {x: -277.80115, y: -51.71814}
+        - {x: -203.80115, y: -91.71814}
+        - {x: -167.80115, y: -108.71814}
+        - {x: -207.80115, y: -163.71814}
+        - {x: -204.80115, y: -184.71814}
+        - {x: -195.80115, y: -192.71814}
+        - {x: -179.80115, y: -192.71814}
+        - {x: -165.80115, y: -188.71814}
+        - {x: -160.80115, y: -180.71814}
+        - {x: -139.80115, y: -166.71814}
+        - {x: -85.80115, y: -189.71814}
+    - name: Moblie Jimbobway Atlas Final_1
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 875
+        width: 206
+        height: 107
+      alignment: 9
+      pivot: {x: 0.21641348, y: 0.59099543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.581177, y: 31.763489}
+        - {x: -34.581177, y: -35.23651}
+        - {x: -23.581177, y: -47.23651}
+        - {x: 38.418823, y: -55.23651}
+        - {x: 156.41882, y: -55.23651}
+        - {x: 157.41882, y: -51.23651}
+        - {x: 157.41882, y: 29.763489}
+        - {x: 154.41882, y: 31.763489}
+    - name: Moblie Jimbobway Atlas Final_2
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 861
+        width: 156
+        height: 152
+      alignment: 9
+      pivot: {x: 0.34842506, y: 0.45424613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.64569, y: -57.04541}
+        - {x: 89.64569, y: -22.04541}
+        - {x: 89.64569, y: 82.95459}
+        - {x: -6.354309, y: 82.95459}
+        - {x: -47.35431, y: 66.95459}
+        - {x: -47.35431, y: -57.04541}
+    - name: EGlob_0
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 43
+        width: 46
+        height: 49
+      alignment: 9
+      pivot: {x: 0.4606645, y: 0.48153657}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.190567, y: 24.404709}
+        - {x: -21.190567, y: 16.404709}
+        - {x: -21.190567, y: -12.595291}
+        - {x: -17.190567, y: -22.595291}
+        - {x: 20.809433, y: -22.595291}
+        - {x: 23.809433, y: -17.595291}
+        - {x: 23.809433, y: 10.404709}
+        - {x: 19.809433, y: 24.404709}
+    - name: EGlob_1
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 16
+        width: 141
+        height: 88
+      alignment: 9
+      pivot: {x: 0.72457737, y: 0.54626465}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.165405, y: 39.92871}
+        - {x: -98.165405, y: 4.928711}
+        - {x: -100.165405, y: 1.9287109}
+        - {x: -100.165405, y: -7.071289}
+        - {x: -39.165405, y: -48.07129}
+        - {x: 18.834595, y: -48.07129}
+        - {x: 33.834595, y: -43.07129}
+        - {x: 33.834595, y: 31.92871}
+        - {x: 14.834595, y: 39.92871}
+    - name: EGlob_2
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 8
+        width: 151
+        height: 119
+      alignment: 9
+      pivot: {x: 0.8115614, y: 0.49619877}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -105.54578, y: -31.047653}
+        - {x: -40.545776, y: -59.047653}
+        - {x: 27.454224, y: -59.047653}
+        - {x: 28.454224, y: -54.047653}
+        - {x: 28.454224, y: 59.952347}
+        - {x: -73.54578, y: 59.952347}
+        - {x: -105.54578, y: 53.952347}
+      - - {x: -122.54578, y: -2.0476532}
+        - {x: -122.54578, y: -12.047653}
+        - {x: -106.54578, y: -12.047653}
+        - {x: -106.54578, y: -2.0476532}
+    - name: EGlob_3
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1
+        width: 174
+        height: 115
+      alignment: 9
+      pivot: {x: 0.78337675, y: 0.5314689}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -136.30756, y: -6.118927}
+        - {x: -80.307556, y: -57.118927}
+        - {x: 28.692444, y: -57.118927}
+        - {x: 35.692444, y: -48.118927}
+        - {x: 35.692444, y: 46.881073}
+        - {x: -91.307556, y: 46.881073}
+        - {x: -136.30756, y: 32.881073}
+    - name: EGlob_4
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 0
+        width: 161
+        height: 114
+      alignment: 9
+      pivot: {x: 0.77254206, y: 0.55158544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.379272, y: 51.11926}
+        - {x: -118.37927, y: 28.119259}
+        - {x: -123.37927, y: 8.119259}
+        - {x: -123.37927, y: -14.880741}
+        - {x: -108.37927, y: -30.880741}
+        - {x: -41.379272, y: -62.88074}
+        - {x: 13.620728, y: -62.88074}
+        - {x: 35.620728, y: -34.88074}
+        - {x: 35.620728, y: 31.119259}
+        - {x: 28.620728, y: 51.11926}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

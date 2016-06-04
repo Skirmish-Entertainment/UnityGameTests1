@@ -1,0 +1,216 @@
+fileFormatVersion: 2
+guid: 7ef32f877b49061458b4822f1b63adf5
+timeCreated: 1462129696
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PlayerMain
+    21300002: PlayerArm
+    21300004: PlayerGun
+    21300006: Bullet1
+    21300008: Bullet2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: PlayerMain
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 494
+        width: 411
+        height: 522
+      alignment: 9
+      pivot: {x: 0.61998886, y: 0.5427382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -105.81543, y: -176.30933}
+        - {x: -15.81543, y: -171.30933}
+        - {x: -17.81543, y: -194.30933}
+        - {x: -23.81543, y: -228.30933}
+        - {x: -4.8154297, y: -258.30933}
+        - {x: 16.18457, y: -255.30933}
+        - {x: 32.18457, y: -242.30933}
+        - {x: 37.18457, y: -237.30933}
+        - {x: 41.18457, y: -181.30933}
+        - {x: 59.18457, y: -167.30933}
+        - {x: 95.18457, y: -157.30933}
+        - {x: 117.18457, y: -147.30933}
+        - {x: 133.18457, y: -99.309326}
+        - {x: 150.18457, y: -70.309326}
+        - {x: 150.18457, y: -51.309326}
+        - {x: 141.18457, y: -27.309326}
+        - {x: 116.18457, y: 12.690674}
+        - {x: 128.18457, y: 47.690674}
+        - {x: 144.18457, y: 91.690674}
+        - {x: 150.18457, y: 113.690674}
+        - {x: 150.18457, y: 139.69067}
+        - {x: 138.18457, y: 163.69067}
+        - {x: 128.18457, y: 176.69067}
+        - {x: 104.18457, y: 183.69067}
+        - {x: 78.18457, y: 196.69067}
+        - {x: 72.18457, y: 214.69067}
+        - {x: 39.18457, y: 233.69067}
+        - {x: -2.8154297, y: 233.69067}
+        - {x: -6.8154297, y: 232.69067}
+        - {x: -35.81543, y: 210.69067}
+        - {x: -93.81543, y: 202.69067}
+        - {x: -114.81543, y: 199.69067}
+        - {x: -136.81543, y: 183.69067}
+        - {x: -167.81543, y: 182.69067}
+        - {x: -185.81543, y: 170.69067}
+        - {x: -198.81543, y: 133.69067}
+        - {x: -198.81543, y: 109.690674}
+        - {x: -192.81543, y: 74.690674}
+        - {x: -182.81543, y: 62.690674}
+        - {x: -219.81543, y: 40.690674}
+        - {x: -242.81543, y: 15.690674}
+        - {x: -250.81543, y: -1.3093262}
+        - {x: -250.81543, y: -29.309326}
+        - {x: -238.81543, y: -92.309326}
+        - {x: -225.81543, y: -99.309326}
+        - {x: -211.81543, y: -103.309326}
+        - {x: -189.81543, y: -140.30933}
+        - {x: -199.81543, y: -167.30933}
+        - {x: -226.81543, y: -213.30933}
+        - {x: -239.81543, y: -243.30933}
+        - {x: -240.81543, y: -260.30933}
+        - {x: -233.81543, y: -275.30933}
+        - {x: -212.81543, y: -280.30933}
+        - {x: -184.81543, y: -280.30933}
+        - {x: -168.81543, y: -254.30933}
+        - {x: -169.81543, y: -219.30933}
+        - {x: -149.81543, y: -178.30933}
+    - name: PlayerArm
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 771
+        width: 326
+        height: 170
+      alignment: 9
+      pivot: {x: 0.14702639, y: 0.6105106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 130.0694, y: 38.213196}
+        - {x: 75.0694, y: 29.213196}
+        - {x: 67.0694, y: 13.213196}
+        - {x: 32.069397, y: 38.213196}
+        - {x: -21.930603, y: 38.213196}
+        - {x: -26.930603, y: 18.213196}
+        - {x: -26.930603, y: -45.786804}
+        - {x: 54.069397, y: -82.786804}
+        - {x: 242.0694, y: -82.786804}
+        - {x: 250.0694, y: -80.786804}
+        - {x: 250.0694, y: 23.213196}
+        - {x: 211.0694, y: 38.213196}
+    - name: PlayerGun
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 522
+        width: 204
+        height: 176
+      alignment: 9
+      pivot: {x: 0.28703666, y: 0.399928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.555481, y: 105.61267}
+        - {x: -13.555481, y: 104.61267}
+        - {x: -55.55548, y: 56.61267}
+        - {x: -55.55548, y: -60.38733}
+        - {x: -39.55548, y: -69.38733}
+        - {x: 28.444519, y: -69.38733}
+        - {x: 91.44452, y: -48.38733}
+        - {x: 140.44452, y: 16.61267}
+        - {x: 140.44452, y: 92.61267}
+        - {x: 130.44452, y: 105.61267}
+    - name: Bullet1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 123
+        width: 265
+        height: 40
+      alignment: 9
+      pivot: {x: 0.9209316, y: 0.4706459}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -243.04688, y: 2.1741638}
+        - {x: -243.04688, y: -8.825836}
+        - {x: -235.04688, y: -13.825836}
+        - {x: 15.953125, y: -13.825836}
+        - {x: 15.953125, y: 17.174164}
+        - {x: -54.046875, y: 17.174164}
+        - {x: -178.04688, y: 10.174164}
+        - {x: -242.04688, y: 3.1741638}
+    - name: Bullet2
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 72
+        width: 285
+        height: 34
+      alignment: 9
+      pivot: {x: 0.9202319, y: 0.3963953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102.26608, y: 12.52256}
+        - {x: -209.26608, y: 7.52256}
+        - {x: -256.26608, y: 3.5225601}
+        - {x: -258.26608, y: 1.5225601}
+        - {x: -261.26608, y: -0.47743988}
+        - {x: -261.26608, y: -5.47744}
+        - {x: -223.26608, y: -11.47744}
+        - {x: -169.26608, y: -13.47744}
+        - {x: 17.733917, y: -13.47744}
+        - {x: 17.733917, y: 11.52256}
+        - {x: 9.733917, y: 15.52256}
+        - {x: -8.266083, y: 15.52256}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
